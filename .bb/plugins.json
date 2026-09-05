@@ -3,6 +3,7 @@
   "schemaVersion": 1,
   "name": "bb-tools",
   "plugins": [
-    { "name": "mcp-control", "source": "./bb-plugin-mcp-control" }
+    { "name": "mcp-control", "source": "./bb-plugin-mcp-control" },
+    { "name": "canvas", "source": "./bb-plugin-canvas" }
   ]
 }
